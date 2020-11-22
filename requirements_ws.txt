@@ -11,7 +11,7 @@ wsaccel==0.6.2
 #
 # UPDATED:
 numpy==1.16.0
-tensorflow-gpu==1.15.0
+tensorflow-gpu==2.3.1
 #
 # ORIGINAL:
 #numpy==1.13.1
